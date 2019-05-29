@@ -1,0 +1,8 @@
+﻿  Ciag liczb.cpp
+c:\users\olga\source\repos\ciag liczb\ciag liczb\ciag liczb.cpp(87): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\olga\source\repos\ciag liczb\ciag liczb\ciag liczb.cpp(87): note: consider using '%lld' in the format string
+  c:\users\olga\source\repos\ciag liczb\ciag liczb\ciag liczb.cpp(87): note: consider using '%I64d' in the format string
+c:\users\olga\source\repos\ciag liczb\ciag liczb\ciag liczb.cpp(93): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\olga\source\repos\ciag liczb\ciag liczb\ciag liczb.cpp(93): note: consider using '%lld' in the format string
+  c:\users\olga\source\repos\ciag liczb\ciag liczb\ciag liczb.cpp(93): note: consider using '%I64d' in the format string
+  Ciag liczb.vcxproj -> C:\Users\Olga\source\repos\Ciag liczb\Debug\Ciag liczb.exe
